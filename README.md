@@ -6,6 +6,10 @@ A premium, framework-free personal portfolio template built with semantic HTML5,
 
 ---
 
+## 📸 Screenshot
+
+![Homepage Preview](screenshot.png)
+
 ## Brand
 
 | Token | Value |
